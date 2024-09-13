@@ -31,7 +31,4 @@
 
 ---
 
-Portfolio: [anniewguo.com](https://anniewguo.com/) <br/>
-Linkedin: [anniewguo](https://www.linkedin.com/in/anniewguo/) <br/>
-Email: anniewenqingguo@gmail.com 
-<br/>
+Contact: anniewenqingguo@gmail.com <br/>
