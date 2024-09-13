@@ -21,4 +21,4 @@ Welcome to my GitHub :) I'm a third year computer science student at the Univers
 ![MSS](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-📬 anniewenqingguo<span>@</span>gmail.com <br/>
+<br/> 📬: anniewenqingguo<span>@</span>gmail.com <br/>
