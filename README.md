@@ -1,7 +1,7 @@
 # Hi! I'm Annie 👋
 
-👨‍💻 Third year computer science student at University of Waterloo <br/>
-📚 Interested in ML topics and fullstack
+👨‍💻 3rd Year Computer Science @ UWaterloo <br/>
+📚 Interested in ML and Fullstack
 
 ---
 
