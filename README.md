@@ -1,8 +1,6 @@
 # Hi! I'm Annie 👋
 
-Welcome to my Github :)
-👨‍💻 3rd Year Computer Science @ UWaterloo <br/>
-📚 Interested in ML and Fullstack
+Welcome to my GitHub :) I'm a third year computer science student at the University of Waterloo, aspiring to become a software engineer. I have a strong interest in machine learning and fullstack development. Feel free to explore my projects!
 
 ### Skills
 
