@@ -1,5 +1,4 @@
 # Hi! I'm Annie 👋
-Portfolio: [anniewguo.com](https://anniewguo.com/)
 
 👨‍💻 Third year computer science student at University of Waterloo <br />
 📚 Interested in ML topics and fullstack
@@ -29,4 +28,10 @@ Portfolio: [anniewguo.com](https://anniewguo.com/)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
+
+---
+
+Portfolio: [anniewguo.com](https://anniewguo.com/)
+Linkedin: [anniewguo](https://www.linkedin.com/in/anniewguo/)
+Email: anniewenqingguo@gmail.com
 <br/>
