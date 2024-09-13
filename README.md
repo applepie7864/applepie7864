@@ -1,6 +1,6 @@
 # Hi! I'm Annie 👋
 
-👨‍💻 Third year computer science student at University of Waterloo <br />
+👨‍💻 Third year computer science student at University of Waterloo <br/>
 📚 Interested in ML topics and fullstack
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-Portfolio: [anniewguo.com](https://anniewguo.com/)
-Linkedin: [anniewguo](https://www.linkedin.com/in/anniewguo/)
-Email: anniewenqingguo@gmail.com
+Portfolio: [anniewguo.com](https://anniewguo.com/) <br/>
+Linkedin: [anniewguo](https://www.linkedin.com/in/anniewguo/) <br/>
+Email: anniewenqingguo@gmail.com 
 <br/>
