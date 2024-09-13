@@ -2,7 +2,7 @@
 
 Welcome to my GitHub :) I'm a third year computer science student at the University of Waterloo, aspiring to become a software engineer. I have a strong interest in machine learning and fullstack development. Feel free to explore my projects!
 
-### Skills
+### Skills:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
