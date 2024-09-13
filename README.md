@@ -1,12 +1,12 @@
-### Hi! I'm Annie 👋
+# Hi! I'm Annie 👋
 Portfolio: [anniewguo.com](https://anniewguo.com/)
 
-👨‍💻 I’m currently in my third year of Computer Science @ UWaterloo
+👨‍💻 Third year computer science student at University of Waterloo <br />
 📚 Interested in ML topics and fullstack
 
 ---
 
-##### Techstack
+### Techstack
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
