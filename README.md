@@ -1,5 +1,6 @@
 # Hi! I'm Annie 👋
 
+Welcome to my Github :)
 👨‍💻 3rd Year Computer Science @ UWaterloo <br/>
 📚 Interested in ML and Fullstack
 
