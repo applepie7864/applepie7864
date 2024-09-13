@@ -31,4 +31,4 @@
 
 ---
 
-Contact: anniewenqingguo@gmail.com <br/>
+Email: anniewenqingguo@gmail.com <br/>
